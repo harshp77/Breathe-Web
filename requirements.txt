@@ -21,7 +21,6 @@ idna==3.4
 imageio==2.27.0
 importlib-metadata==6.4.0
 itsdangerous==2.1.2
-jax==0.4.8
 Jinja2==3.1.2
 joblib==1.2.0
 keras==2.12.0
