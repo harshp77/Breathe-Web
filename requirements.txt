@@ -33,11 +33,9 @@ MarkupSafe==2.1.2
 ml-dtypes==0.1.0
 msgpack==1.0.5
 numba==0.56.4
-numpy==1.23.5
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.1
-Pillow==9.5.0
 pooch==1.6.0
 protobuf==4.22.3
 pyasn1==0.4.8
@@ -54,8 +52,6 @@ scipy==1.9.1
 six==1.16.0
 soundfile==0.12.1
 soxr==0.3.5
-tensorboard==2.12.2
-tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
 tensorflow-estimator==2.12.0
