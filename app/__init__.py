@@ -9,8 +9,8 @@ from skimage.transform import resize
 
 app = Flask(__name__)
 audio = None
-app.secret_key = os.environ['SESSION_SECRET_KEY']
-# app.secret_key = "chuss"
+# app.secret_key = os.environ['SESSION_SECRET_KEY']
+app.secret_key = "9f5ced9032671c76a8fe1e7a94f0adca"
 db = sqlite3.connect('database.db', check_same_thread=False)
 cursor = db.cursor()
 
