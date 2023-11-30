@@ -2,7 +2,7 @@
 
 **Project Theme:** Healthcare
 
-**Team :** Aryaman, Yash Ghodekar, Sanjam Kaur Bedi
+**Team :** Aryaman, Harsh Pandey, Subhanshu Arya
 
 **BreaTHE** is a web application that uses the **audio clip of a user's breathing pattern** and evaluates their respiratory health. The web app provides insights into the user's respiratory health by checking whether the user falls into any of the following categories: **Bronchiolitis, Pneumonia, URTI, COPD, or Healthy**. BreaTHE has the potential to help people manage their respiratory health, especially in the current global pandemic, where respiratory illnesses are a significant concern to the whole humanity.
 
@@ -39,4 +39,5 @@ We have used Federated learning architecture to predict the above mentioned dise
 ![image](https://github.com/Aryaman-Arya/BreaTHE/assets/85841043/abcadb73-9a42-4aba-846d-5f5131a8b364)
 
 Team 
-![image](https://github.com/Aryaman-Arya/BreaTHE/assets/85841043/ca9bac33-a0cd-4490-ad1f-8fb260d11f2a)
+![image](https://github.com/harshp77/Breathe-Web/assets/76607486/a0c23257-8f3e-41f4-97a1-a36b37da4b05)
+
